@@ -1,0 +1,12 @@
+name: green-blue
+title: Green-Blue
+username: kelly
+account: kelly
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 2587
+bundleId: 26095
+url: https://colorado.rstudio.com:443/rsc/content/2587/
+when: 1561948326.7846
+asMultiple: FALSE
+asStatic: FALSE
